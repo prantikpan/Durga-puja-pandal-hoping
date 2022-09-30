@@ -141,19 +141,19 @@ p {
 }
 
 .card1 {
-    background-image: url(images/asansol.jpg);
+    background-image: url(asansol.jpg);
 }
 
 .card2 {
-    background-image: url(images/durgapur.jpg);
+    background-image: url(durgapur.jpg);
 }
 
 .card3 {
-    background-image: url(images/raniganj.jpg);
+    background-image: url(raniganj.jpg);
 }
 
 .card4 {
-    background-image: url(images/chittaranjan.jpg);
+    background-image: url(chittaranjan.jpg);
 }
 
 .card:hover {
